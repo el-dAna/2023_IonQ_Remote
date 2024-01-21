@@ -1,0 +1,8 @@
+numpy
+qiskit
+qiskit_algorithms
+qiskit_machine_learning
+scikit-learn
+matplotlib
+pylatexenc
+ipywidgets
