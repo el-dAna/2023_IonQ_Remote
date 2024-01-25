@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 pylatexenc
 ipywidgets
+qiskit-aer
