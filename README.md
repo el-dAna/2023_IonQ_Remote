@@ -20,3 +20,6 @@ git checkout <team_name>
 7. You are now ready to begin hacking! Work with your team to complete the challenges.
 
 For other questions or additional help using qBraid, see [Lab User Guide](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/lab/overview.html), or reach out on [Discord](https://discord.gg/gwBebaBZZX).
+
+----------------------------------------------------------------------------
+Probel with encoding the images as a circuit before appending to the feature map and ansatz
